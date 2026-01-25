@@ -29,9 +29,3 @@ If the above command is not recognized, then this package is probably missing. T
 ```
 winget ffmpeg
 ```
-
-## Run the Demo:
-
-## Other Tips and Final Thoughts: 
-
-Flic bluetooth connection 
