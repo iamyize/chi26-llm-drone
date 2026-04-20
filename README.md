@@ -5,9 +5,9 @@ Code for our CHI 2026 full paper (https://doi.org/10.1145/3772318.3791343)
 
 ## Hardware and Software: 
 - Tello Drone (https://www.ryzerobotics.com/tello)
-- Windows Laptop (Mac probably works just fine, but we recommend Windows.)
+- Windows laptop (Mac probably works just fine, but we recommend Windows.)
 - WiFi Adapter
-- Noise Cancelling Headphone with a mic
+- Non-noise cancelling headphone with a mic
 - Python version < 3.13 (We run it in 3.9.13) 
 
 ## Environment Set-up: 
